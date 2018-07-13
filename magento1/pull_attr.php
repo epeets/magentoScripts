@@ -4,7 +4,7 @@
  * List all attributes and values in CSV format unsorted
  * 
  * Author: Eshcole Peets
- * Site: TopSpot Internet Marketing
+ * Tested with Magento 1.9.2.4
  * 
  */
 
